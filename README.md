@@ -35,7 +35,7 @@ I am a university student from China. Nice to meet you!
       <td>
         <!-- 统一设置高度为 200px，width:auto 保证图片按比例缩放不拉伸 -->
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=ZanytriumPH&show_icons=true&theme=transparent" 
+          src="https://github-readme-stats.vercel.app/api?username=ZanytriumPH&show_icons=true&theme=gruvbox" 
           alt="ZanytriumPH's GitHub stats" 
           height="150" 
           style="width: auto;"
@@ -43,7 +43,7 @@ I am a university student from China. Nice to meet you!
       </td>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanytriumPH&layout=donut&theme=transparent" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanytriumPH&layout=donut&theme=shadow_blue" 
           alt="ZanytriumPH's most used Languages" 
           height="150" 
           style="width: auto;"
@@ -51,13 +51,4 @@ I am a university student from China. Nice to meet you!
       </td>
     </tr>
   </table>
-</div>
-
-<div>
-  <p align="center">
-    <img src="https://streak-stats.demolab.com/?user=ZanytriumPH&theme=transparent" alt="ZanytriumPH's Streak">
-  </p>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZanytriumPH&theme=github-compact&hide_border=true&area=true" alt="ZanytriumPH's Activity Graph">  
-  </p>
 </div>
