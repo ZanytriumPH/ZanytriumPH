@@ -29,10 +29,35 @@ I am a university student from China. Nice to meet you!
 
 ## 📈 GitHub Graphs
 
-![ZanytriumPH's github stats](https://github-readme-stats.vercel.app/api?username=ZanytriumPH&show_icons=true&theme=radical)
+<div>
+  <table align="center" cellpadding="10"> <!-- cellpadding 增加单元格内边距，避免图片紧贴 -->
+    <tr>
+      <td>
+        <!-- 统一设置高度为 200px，width:auto 保证图片按比例缩放不拉伸 -->
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=ZanytriumPH&show_icons=true&theme=transparent" 
+          alt="ZanytriumPH's GitHub stats" 
+          height="150" 
+          style="width: auto;"
+        />
+      </td>
+      <td>
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanytriumPH&layout=donut&theme=transparent" 
+          alt="ZanytriumPH's most used Languages" 
+          height="150" 
+          style="width: auto;"
+        />
+      </td>
+    </tr>
+  </table>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanytriumPH&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ZanytriumPH&theme=radical)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=ZanytriumPH&theme=radical&row=1&column=5)
+<div>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=ZanytriumPH&theme=transparent" alt="ZanytriumPH's Streak">
+  </p>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZanytriumPH&theme=github-compact&hide_border=true&area=true" alt="ZanytriumPH's Activity Graph">  
+  </p>
+</div>
