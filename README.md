@@ -30,22 +30,21 @@ I am a university student from China. Nice to meet you!
 ## 📈 GitHub Graphs
 
 <div>
-  <table align="center" cellpadding="10"> <!-- cellpadding 增加单元格内边距，避免图片紧贴 -->
+  <table align="center">
     <tr>
       <td>
-        <!-- 统一设置高度为 200px，width:auto 保证图片按比例缩放不拉伸 -->
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=ZanytriumPH&show_icons=true&theme=gruvbox" 
+          src="https://github-readme-stats.vercel.app/api?username=ZanytriumPH&show_icons=true&theme=transparent" 
           alt="ZanytriumPH's GitHub stats" 
-          height="150" 
+          height="250" 
           style="width: auto;"
         />
       </td>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanytriumPH&layout=donut&theme=shadow_blue" 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanytriumPH&layout=compact&theme=transparent" 
           alt="ZanytriumPH's most used Languages" 
-          height="150" 
+          height="300" 
           style="width: auto;"
         />
       </td>
