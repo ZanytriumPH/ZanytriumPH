@@ -25,7 +25,7 @@ I am a university student from China. Nice to meet you!
 
 ### 🔧Tools
 
-![Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu,vscode,idea,clion,pycharm,androidstudio,vim,sqlite&theme=dark)
+![Skills](https://skillicons.dev/icons?i=git,github,gitlab,linux,ubuntu,vscode,idea,clion,pycharm,androidstudio,vim,nodejs,sqlite&theme=dark)
 
 ## 📈 GitHub Graphs
 
