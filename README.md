@@ -22,7 +22,7 @@ I am a university student from China. Nice to meet you!
 
 ### 🚩Frameworks
 
-![Skills](https://skillicons.dev/icons?i=vite,react,tailwindcss&theme=dark)
+![Skills](https://skillicons.dev/icons?i=vite,react,tailwindcss,springboot&theme=dark)
 
 ### 🔧Tools
 
