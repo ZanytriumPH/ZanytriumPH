@@ -35,7 +35,7 @@ I am a university student from China. Nice to meet you!
     <tr>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api?username=ZanytriumPH&show_icons=true&theme=transparent" 
+          src="https://github-readme-stats-fast.vercel.app/api?username=ZanytriumPH&show_icons=true&theme=transparent" 
           alt="ZanytriumPH's GitHub stats" 
           height="250" 
           style="width: auto;"
@@ -43,7 +43,7 @@ I am a university student from China. Nice to meet you!
       </td>
       <td>
         <img 
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZanytriumPH&layout=compact&theme=transparent" 
+          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ZanytriumPH&layout=compact&theme=transparent" 
           alt="ZanytriumPH's most used Languages" 
           height="300" 
           style="width: auto;"
